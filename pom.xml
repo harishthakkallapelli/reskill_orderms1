@@ -15,6 +15,10 @@
 	<description>OrderMS for Reskill</description>
 	<properties>
 		<java.version>11</java.version>
+		<sonar.projectKey>harishthakkallapelli_reskill_orderms1</sonar.projectKey>
+		<sonar.organization>harishthakkallapelli</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+
 	</properties>
 	<dependencyManagement>
 		<dependencies>
